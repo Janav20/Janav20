@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 📫 Reach me at **shettyjanav@gmail.com**
+- 📫 Reach me at **[janavshetty.vercel.app](https://janavshetty.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
